@@ -1,0 +1,60 @@
+disciplina: Inteligência Artificial 
+course_id: _204407_1 
+aulas:
+  -
+    pasta: Aula 05 - Aprendizado de Máquina e Redes Neurais
+    data: 10/03/2023
+    exercicios:
+      -
+        titulo: Ex05.1 - Ex Teórico de Redes Neurais 
+        descricao: https://spsenacbr-my.sharepoint.com/:x:/g/personal/celso_vcrivelaro_sp_senac_br/EYTsauM6B4lAmFZgGo6mdC8BZbR6UITJMt8yaiQvZb3enA?e=mMiTmJ
+        entrega: 10/03/2023
+        pontos: 1
+      -
+        titulo: Ex05.2 - Exercício prático
+        descricao: https://replit.com/@celsosenac/ex-redes-neurais
+        entrega: 10/03/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Aprendizado de Máquina 
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVYa0I4lqNpDs9NUFDJD6dYBsnukEEQwUMJR27l4Y3-1NQ?e=2LAUUX
+      -
+        titulo: Slides - Redes Neurais Perceptron
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Eaznmdl6QUtAnkcKH51smaABr_HXoN3I6aQk2dapl5AibA?e=xUGA4p
+      -
+        titulo: Slides - Redes Neurais Multilayer Perceptron
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Eaznmdl6QUtAnkcKH51smaABr_HXoN3I6aQk2dapl5AibA?e=2lsykw
+  -
+    pasta: Aula 06 - Redes Neurais e Algoritmos Genéticos
+    data: 17/03/2023
+    exercicios:
+      -
+        titulo: Ex06.1 - Exercício prático de Redes Neurais
+        descricao: https://replit.com/@celsosenac/ex-redes-neurais
+        entrega: 17/03/2023
+        pontos: 1
+      -
+        titulo: Ex06.2 - Genéticos
+        descricao: https://replit.com/@celsosenac/geneticos-lancamento#main.py
+        entrega: 17/03/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Redes Neurais Multilayer Perceptron
+        url:  https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Eaznmdl6QUtAnkcKH51smaABr_HXoN3I6aQk2dapl5AibA?e=2lsykw
+      -
+        titulo: Slides - Algoritmos Genéticos 
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EUojJ1R5cnZIhmcZrr19YLcBnVDMJNWoNqwPydEOwG8anA?e=KuidCl
+    pasta: Aula 08 - Algoritmos Genéticos
+    data: 31/03/2023
+    exercicios:
+      -
+        titulo: Ex08 - Modelagem do EP
+        descricao: https://crivelaro.notion.site/AG-Joana-Sandiego-a-Ladra-Viajante-9f0a8ec0b28a43368aee1bdd24265738
+        entrega: 31/03/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Algoritmos Genéticos 
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EUojJ1R5cnZIhmcZrr19YLcBnVDMJNWoNqwPydEOwG8anA?e=KuidCl

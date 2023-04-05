@@ -1,0 +1,91 @@
+disciplina: Linguagens Formais e Autômatos
+course_id: _204404_1
+aulas:
+  - 
+    pasta: Aula 04 - Autômatos Finitos não-Determinísticos
+    data: 02/03/2023
+    exercicios:
+      -
+        titulo: Ex04.1 - Autômatos Finitos não-Determinísticos
+        descricao: https://crivelaro.notion.site/Aut-matos-Finitos-n-o-Determin-sticos-3a4866e035c6422d822defd774f7d322
+        entrega: 02/03/2023
+        pontos: 1
+      -
+        titulo: Ex04.2 - AFNe -> AFN -> AFD
+        descricao: https://crivelaro.notion.site/AFNe-AFN-AFD-bd5256a44880408683a87084b931b965 
+        entrega: 02/03/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Autômatos Finitos não-determinísticos
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EXNTAh0CtKNFiF_SU_kY_KoB0dN4hAtxqYWwNr6XOW9jEg?e=1aRODS
+  - 
+    pasta: Aula 05 - Expressões Regulares
+    data: 09/03/2023
+    exercicios:
+      -
+        titulo: Ex05.1 - NFAe em NFA
+        descricao: https://crivelaro.notion.site/AFNe-AFN-AFD-bd5256a44880408683a87084b931b965 
+        entrega: 09/03/2023
+        pontos: 1
+      -
+        titulo: Ex05.2 - Expressões Regulares
+        descricao: https://crivelaro.notion.site/Express-es-Regulares-336e1ae032dc42688bf5ff674f2a27fa
+        entrega: 09/03/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Expressões Regulares
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Ebd5jB5tTkhNoVSJBiPyKiwBCXPCCsWPu8sEaQp49w_oVg?e=K7xh4f
+  -
+    pasta: Aula 06 - Expressões regulares 2
+    data: 16/03/2023
+    exercicios:
+      -
+        titulo: Ex06.1 - Expressões Regulares - Teoria
+        descricao: https://crivelaro.notion.site/Express-es-Regulares-Teoria-336e1ae032dc42688bf5ff674f2a27fa
+        entrega: 16/03/2023
+        pontos: 1
+      -
+        titulo: Ex06.2 - Expressões Regulares - Prática
+        descricao: https://crivelaro.notion.site/Express-es-Regulares-Pr-tica-ea6552af291b47dfa4d94217106a572b
+        entrega: 16/03/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Expressões Regulares
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Ebd5jB5tTkhNoVSJBiPyKiwBCXPCCsWPu8sEaQp49w_oVg?e=K7xh4f
+  -
+    pasta: Aula 07 - Linguagens Livres de Contexto e Autômato de Pilha
+    data: 23/03/2023
+    exercicios:
+      -
+        titulo: Ex07.1 - Autômatos de Pilha
+        descricao: https://crivelaro.notion.site/Aut-mato-de-Pilha-6ddd3b5f846b4be281024b58dacb6bda
+        entrega: 23/03/2023
+        pontos: 1
+      -
+        titulo: Ex07.2 - Autômatos de Pilha - Código
+        descricao: https://replit.com/@celsosenac/automato-pilha 
+        entrega: 23/03/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Linguagens Livres de Contexto
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EcZBTYdtfmNAicLsg6dD4Q0BvNReF9F4cm8toabQz7D-0g?e=bxCxbY
+      -
+        titulo: Slides - Autômatos de Pilha
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ETsSsr3W8LNPqczBQ_Ry9c0BXT6oGoERSaDgYbSDzl1Mow?e=a1fSPh
+  -
+    pasta: Aula 08 - Linguagens Livres de Contexto
+    data: 30/03/2023
+    exercicios:
+      -
+        titulo: Ex08 - Gramáticas Livres de Contexto
+        descricao: https://crivelaro.notion.site/Gram-ticas-Livres-de-Contexto-4f368934b8ac422492f75901a34d18ef
+        entrega: 30/03/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Gramáticas Livres de Contexto
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVBe8m8I7hRMjaRHF9VfWf0BR6hNIROW3symuRiIkDR4Zw?e=9v9rVV 
