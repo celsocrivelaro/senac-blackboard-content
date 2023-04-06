@@ -2,7 +2,7 @@ disciplinas:
   -
     nome: Linguagens Formais e Autômatos 2023
     url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/lfa-2023.yml
-    dia: 3
+    dia: 4
     semestre: 1
     course_id: _204404_1
   -
@@ -10,4 +10,4 @@ disciplinas:
     url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/ia-2023.yml
     dia: 5
     semestre: 1
-    course_id: _204407_1 
+    course_id: _204407_1
