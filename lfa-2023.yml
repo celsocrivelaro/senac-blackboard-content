@@ -77,7 +77,7 @@ aulas:
         titulo: Slides - Autômatos de Pilha
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ETsSsr3W8LNPqczBQ_Ry9c0BXT6oGoERSaDgYbSDzl1Mow?e=a1fSPh
   -
-    pasta: Aula 08 - Linguagens Livres de Contexto
+    pasta: Aula 08 - Gramáticas Livres de Contexto
     data: 30/03/2023
     exercicios:
       -
@@ -90,15 +90,26 @@ aulas:
         titulo: Slides - Gramáticas Livres de Contexto
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVBe8m8I7hRMjaRHF9VfWf0BR6hNIROW3symuRiIkDR4Zw?e=9v9rVV 
   -
-    pasta: Aula 99 - Linguagens Livres de Contexto
+    pasta: Aula 09 - GKC e Ambiguidade
     data: 06/04/2023
     exercicios:
       -
-        titulo: Ex08 - Gramáticas Livres de Contexto
-        descricao: https://crivelaro.notion.site/Gram-ticas-Livres-de-Contexto-4f368934b8ac422492f75901a34d18ef
+        titulo: Ex09.1 - Ambiguidade
+        descricao: https://www.notion.so/crivelaro/Ambiguidade-de-GLC-9265c68c6c9b4c8ba038a06f5d6bf631?pvs=4
+        entrega: 06/04/2023
+        pontos: 1
+      -
+        titulo: Ex09.2 - Formas Normais
+        descricao: https://crivelaro.notion.site/Formas-Normais-e-AP-de-Gram-tica-aac07be2df1d4877abe44eb0d926f3e8
         entrega: 06/04/2023
         pontos: 1
     links:
       -
         titulo: Slides - Gramáticas Livres de Contexto
-        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVBe8m8I7hRMjaRHF9VfWf0BR6hNIROW3symuRiIkDR4Zw?e=9v9rVV 
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVBe8m8I7hRMjaRHF9VfWf0BR6hNIROW3symuRiIkDR4Zw?e=9v9rVV
+      -
+        titulo: Slides - Formas Normais
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Edlm6Vn4Yu9Mq9NcggdTG0oBZXLcbE7_3Wm9tBISHs_yuw?e=dcKXkn
+      -
+        titulo: Slides - Projeto de uma LLC
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EZs1ai2QNIlBkfvbu2jF-FoB-6VZgdhMFgs5Tt1IB-ieZg?e=wELniu
