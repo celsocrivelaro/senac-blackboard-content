@@ -89,3 +89,16 @@ aulas:
       -
         titulo: Slides - Gramáticas Livres de Contexto
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVBe8m8I7hRMjaRHF9VfWf0BR6hNIROW3symuRiIkDR4Zw?e=9v9rVV 
+  -
+    pasta: Aula 99 - Linguagens Livres de Contexto
+    data: 05/04/2023
+    exercicios:
+      -
+        titulo: Ex08 - Gramáticas Livres de Contexto
+        descricao: https://crivelaro.notion.site/Gram-ticas-Livres-de-Contexto-4f368934b8ac422492f75901a34d18ef
+        entrega: 05/04/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Gramáticas Livres de Contexto
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVBe8m8I7hRMjaRHF9VfWf0BR6hNIROW3symuRiIkDR4Zw?e=9v9rVV 
