@@ -90,7 +90,7 @@ aulas:
         titulo: Slides - Gramáticas Livres de Contexto
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVBe8m8I7hRMjaRHF9VfWf0BR6hNIROW3symuRiIkDR4Zw?e=9v9rVV 
   -
-    pasta: Aula 09 - GKC e Ambiguidade
+    pasta: Aula 09 - GLC e Ambiguidade
     data: 06/04/2023
     exercicios:
       -
@@ -110,6 +110,22 @@ aulas:
       -
         titulo: Slides - Formas Normais
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Edlm6Vn4Yu9Mq9NcggdTG0oBZXLcbE7_3Wm9tBISHs_yuw?e=dcKXkn
+      -
+        titulo: Slides - Projeto de uma LLC
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EZs1ai2QNIlBkfvbu2jF-FoB-6VZgdhMFgs5Tt1IB-ieZg?e=wELniu
+   -
+    pasta: Aula 10 - Parsers e Projeto de LC
+    data: 13/04/2023
+    exercicios:
+      -
+        titulo: Ex10 - Projeto de uma LLC
+        descricao: https://crivelaro.notion.site/Reconhecedor-de-Express-es-Aritm-ticas-05a892c5e67f447ca9ecf989b6c32163
+        entrega: 13/04/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Parsers
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EQAhWS5MWThLn6fncdAuZXgBLqSs_HIkCJ5fWYINAQHu7g?e=7fyw3n
       -
         titulo: Slides - Projeto de uma LLC
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EZs1ai2QNIlBkfvbu2jF-FoB-6VZgdhMFgs5Tt1IB-ieZg?e=wELniu
