@@ -59,3 +59,19 @@ aulas:
       -
         titulo: Slides - Algoritmos Genéticos 
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EUojJ1R5cnZIhmcZrr19YLcBnVDMJNWoNqwPydEOwG8anA?e=KuidCl
+  -
+    pasta: Aula 09 - Aprendizado por Reforço - MDL
+    data: 14/04/2023
+    exercicios:
+      -
+        titulo: Ex09 - MDL
+        descricao: https://replit.com/@celsosenac/mdl#main.py
+        entrega: 14/04/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Aprendizado por Reforço
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Ee34BOg3kvxKrSQvDXziVf4BBVEwkgvlwhCxzKUTy-1_SQ?e=ZneSBG
+      -
+        titulo: Slides - MDL
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ETymlaAzTeFEkIPA9LBmnAQBpbsNOGk3HJLOXukS4Eur5A?e=ztypdm
