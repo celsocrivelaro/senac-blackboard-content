@@ -65,7 +65,7 @@ aulas:
     exercicios:
       -
         titulo: Ex09 - MDL
-        descricao: https://replit.com/@celsosenac/mdl#main.py
+        descricao: https://replit.com/@celsosenac/mdl-exercicio
         entrega: 14/04/2023
         pontos: 1
     links:
@@ -75,3 +75,6 @@ aulas:
       -
         titulo: Slides - MDL
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ETymlaAzTeFEkIPA9LBmnAQBpbsNOGk3HJLOXukS4Eur5A?e=ztypdm
+      -
+        titulo: Código - MDL
+        url: https://replit.com/@celsosenac/mdl#mdl.py
