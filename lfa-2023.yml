@@ -129,3 +129,24 @@ aulas:
       -
         titulo: Slides - Projeto de uma LLC
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EZs1ai2QNIlBkfvbu2jF-FoB-6VZgdhMFgs5Tt1IB-ieZg?e=wELniu
+  -
+    pasta: Aula 11 - Bombeamento e Duplo Bombeamento
+    data: 20/04/2023
+    exercicios:
+      -
+        titulo: Ex11.1 - Bombeamento
+        descricao: https://crivelaro.notion.site/Bombeamento-4ea31113819b4e309abf58de5d4da6de
+        entrega: 20/04/2023
+        pontos: 1
+      -
+        titulo: Ex11.1 - Parser Earley
+        descricao: https://replit.com/@celsosenac/earley
+        entrega: 20/04/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Bombeamento
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EaSc9P7_MtlNvs_tBscidswBxYrSnpp-gwClP2BzGTgfiQ
+      -
+        titulo: Slides - Duplo Bombeamento
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Ee42cVRsJ-lGmxBSS8K9zdABueJfXaWp0KQR6F9gg9jECA?e=XzigyG
