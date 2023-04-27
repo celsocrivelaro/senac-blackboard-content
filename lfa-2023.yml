@@ -150,3 +150,22 @@ aulas:
       -
         titulo: Slides - Duplo Bombeamento
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Ee42cVRsJ-lGmxBSS8K9zdABueJfXaWp0KQR6F9gg9jECA?e=XzigyG
+   -
+    pasta: Aula 12 - Propriedades de LLC e Máquina de Turing
+    data: 27/04/2023
+    exercicios:
+      -
+        titulo: Ex13 - Máquina de Turing
+        descricao: https://crivelaro.notion.site/M-quinas-de-Turing-para-LSC-fc851bb5fbd44414850eadf7e5b1cd74
+        entrega: 27/04/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Propriedades de Ling Regulares
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EeWXfWwq9iROjBm03jlmC6MBAVwqy93L1PVqzcCxLodp4g?e=UrY1Zv
+      -
+        titulo: Slides - Propriedades de LLC
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVIePdTM4UlNhndf_G94cFQBQ_C1vUW8SApMfjU0Rw9wAQ?e=gqj67q
+      -
+        titulo: Slides - Máquina de Turing
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EbEYNIErF5tMoFPl15ZsdVIBGJmsquQWPKvJjGpmgkL7hQ?e=cEmjbN
