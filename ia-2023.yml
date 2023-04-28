@@ -81,12 +81,6 @@ aulas:
   -
     pasta: Aula 10 - Aprendizado por Reforço - Q Learning
     data: 28/04/2023
-    exercicios:
-      -
-        titulo: Ex10 - QLearning
-        descricao: 
-        entrega: 28/04/2023
-        pontos: 1
     links:
       -
         titulo: Slides - Aprendizado por Reforço
