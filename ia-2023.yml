@@ -78,3 +78,28 @@ aulas:
       -
         titulo: Código - MDL
         url: https://replit.com/@celsosenac/mdl#mdl.py
+  -
+    pasta: Aula 10 - Aprendizado por Reforço - Q Learning
+    data: 28/04/2023
+    exercicios:
+      -
+        titulo: Ex10 - QLearning
+        descricao: 
+        entrega: 28/04/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Aprendizado por Reforço
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Ee34BOg3kvxKrSQvDXziVf4BBVEwkgvlwhCxzKUTy-1_SQ?e=ZneSBG
+      -
+        titulo: Slides - MDL
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ETymlaAzTeFEkIPA9LBmnAQBpbsNOGk3HJLOXukS4Eur5A?e=ztypdm
+      -
+        titulo: Slides - QLearning
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ER6Nkkaky6BHvg9d6cDSi3oBZo8Cm8pB028_jq368SNDoA?e=Fyr39w
+      -
+        titulo: Código - MDL
+        url: https://replit.com/@celsosenac/mdl#mdl.py
+      -
+        titulo: Código - QLearning
+        url: https://replit.com/@celsosenac/q-learning
