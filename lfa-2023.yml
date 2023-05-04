@@ -155,7 +155,7 @@ aulas:
     data: 27/04/2023
     exercicios:
       -
-        titulo: Ex13 - Máquina de Turing
+        titulo: Ex13 - Máquina de Turing para LR e LLC
         descricao: https://crivelaro.notion.site/M-quinas-de-Turing-para-LSC-fc851bb5fbd44414850eadf7e5b1cd74
         entrega: 27/04/2023
         pontos: 1
@@ -174,7 +174,7 @@ aulas:
     data: 04/05/2023
     exercicios:
       -
-        titulo: Ex13 - Máquina de Turing
+        titulo: Ex13 - Máquina de Turing para LSC
         descricao: https://crivelaro.notion.site/M-quinas-de-Turing-para-LSC-fc851bb5fbd44414850eadf7e5b1cd74
         entrega: 04/05/2023
         pontos: 1
@@ -183,17 +183,17 @@ aulas:
         titulo: Slides - Linguagens Sensíveis ao Contexto
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EZT8Z3kdKYxChdEt2UtUnkwBwJsCGvuwNvslOjcIYTQ7-g?e=MAgEOF
       -
-        titulo: Slides - Gromáticas Irrestritas
+        titulo: Slides - Gramáticas Irrestritas
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ERC29WKIwnxGmDmbKiHXzJIBZaHjG4iA01kKnYxwz6Vhjw?e=59RXvC
       -
         titulo: Slides - Máquina de Turing
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EbEYNIErF5tMoFPl15ZsdVIBGJmsquQWPKvJjGpmgkL7hQ?e=cEmjb
   -
-    pasta: Aula 14 - Linguagens Recursivamente Enumeráveis
+    pasta: Aula 14 - Linguagens Recursivas
     data: 11/05/2023
     exercicios:
       -
-        titulo: Ex13 - Máquina de Turing para Linguagens Recursivas
+        titulo: Ex14 - Máquina de Turing para Linguagens Recursivas
         descricao: https://crivelaro.notion.site/M-quinas-de-Turing-para-Linguagens-Recursivas-39c30a2be92143ba8f7de9910a2bb995
         entrega: 11/05/2023
         pontos: 1
@@ -201,6 +201,9 @@ aulas:
       -
         titulo: Slides - Máquina de Turing
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EbEYNIErF5tMoFPl15ZsdVIBGJmsquQWPKvJjGpmgkL7hQ?e=cEmjb
+      -
+        titulo: Slides - Linguagens Recursivas
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ERBrjKnbKydNg5kvfDSlhoYB-LpSh5Lcbm6N_i8qTY822A
   -
     pasta: Aula 15 - Computabilidade e Máquina de Turing Universal
     data: 18/05/2023
@@ -215,7 +218,5 @@ aulas:
         titulo: Slides - Máquina de Turing 
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EbEYNIErF5tMoFPl15ZsdVIBGJmsquQWPKvJjGpmgkL7hQ?e=cEmjb
       -
-        titulo: Slides - Máquina de Turing 
-        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EbEYNIErF5tMoFPl15ZsdVIBGJmsquQWPKvJjGpmgkL7hQ?e=cEmjb
-      
-
+        titulo: Slides - Linguagens Recursivamente Enumeráveis
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EV6018Ojd8BLufQAhtfqpKkB4lkKkGT3F8sg9dE3FL586g
