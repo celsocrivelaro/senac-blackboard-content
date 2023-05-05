@@ -103,3 +103,22 @@ aulas:
       -
         titulo: Código - QLearning
         url: https://replit.com/@celsosenac/q-learning
+  -
+    pasta: Aula 11 - Lógica Fuzzy
+    data: 05/05/2023
+    exercicios:
+      -
+        titulo: Ex11 - Fuzzy
+        descricao: https://replit.com/@celsosenac/ex-fuzzy#main.py
+        entrega: 05/05/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Lógica Fuzzy
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EftJkPeuzPRGjSz263oPynUBBozzSEeF21isa4K98thI4w?e=baPCEq
+      -
+        titulo: Exercícios - Fuzzy
+        url: https://crivelaro.notion.site/An-lise-de-Sentimentos-Fuzzy-3e0c288d8605438cb3a6880ef62eb423
+      -
+        titulo: Código - Fuzzy
+        url: hhttps://replit.com/@celsosenac/fuzzy#main.py
