@@ -193,7 +193,7 @@ aulas:
     data: 11/05/2023
     exercicios:
       -
-        titulo: Ex14 - Máquina de Turing para Linguagens Recursivas
+        titulo: Ex14.1 - Máquina de Turing para Linguagens Recursivas
         descricao: https://crivelaro.notion.site/M-quinas-de-Turing-para-Linguagens-Recursivas-39c30a2be92143ba8f7de9910a2bb995
         entrega: 11/05/2023
         pontos: 1
@@ -204,6 +204,9 @@ aulas:
       -
         titulo: Slides - Linguagens Recursivas
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ERBrjKnbKydNg5kvfDSlhoYB-LpSh5Lcbm6N_i8qTY822A
+      -
+        titulo: Código - Máquina de Turing para Linguagens Recursivas
+        url: https://replit.com/@celsosenac/mt-ling-recursiva
   -
     pasta: Aula 15 - Computabilidade e Máquina de Turing Universal
     data: 18/05/2023
