@@ -2,6 +2,30 @@ disciplina: Linguagens Formais e Autômatos
 course_id: _204404_1
 aulas:
   - 
+    pasta: Aula 01 - Matemática Discreta
+    data: 02/03/2023
+    exercicios:
+      -
+        titulo: Ex01.1 - Matemática Discreta
+        descricao: https://crivelaro.notion.site/Matem-tica-Discreta-864841bac1744b55b188e5ce3ebaa0e4
+        entrega: 02/03/2023
+        pontos: 1
+      -
+        titulo: Ex01.1 - Ruby Básico
+        descricao: https://replit.com/@celsosenac/ruby-basico#main.rb
+        entrega: 02/03/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Apresentação da Disciplina
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ERjJQsA5ClxIpWirKxC8Q08Bo3C7PjOoHW40JmHqIsgZ1A?rtime=QQNxDkdX20g
+      -
+        titulo: Slides - Introdução a Linguagens Formais
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVJw_Mujr8lFtVhMFC7dxT4BmI84-Mq3glSK8RQkUOkgcg?e=SZKEXi
+      -
+        titulo: Slides - Matemática Discreta
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ESeAW9RDLatLt3cp1lmTTegB01Ch5ybRzFmn4LzMYM2MiA?e=frpcrB
+  - 
     pasta: Aula 04 - Autômatos Finitos não-Determinísticos
     data: 02/03/2023
     exercicios:
