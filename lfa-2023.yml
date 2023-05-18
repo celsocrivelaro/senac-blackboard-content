@@ -213,7 +213,7 @@ aulas:
     exercicios:
       -
         titulo: Ex14 - Máquina de Turing Universal
-        descricao: https://crivelaro.notion.site/M-quinas-de-Turing-para-Linguagens-Recursivas-39c30a2be92143ba8f7de9910a2bb995
+        descricao: https://replit.com/@celsosenac/mt-ling-recursivamente-enumeraveis
         entrega: 18/05/2023
         pontos: 1
     links:
