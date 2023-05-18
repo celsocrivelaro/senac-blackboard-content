@@ -207,9 +207,6 @@ aulas:
         titulo: Slides - Linguagens Sensíveis ao Contexto
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EZT8Z3kdKYxChdEt2UtUnkwBwJsCGvuwNvslOjcIYTQ7-g?e=MAgEOF
       -
-        titulo: Slides - Gramáticas Irrestritas
-        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ERC29WKIwnxGmDmbKiHXzJIBZaHjG4iA01kKnYxwz6Vhjw?e=59RXvC
-      -
         titulo: Slides - Máquina de Turing
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EbEYNIErF5tMoFPl15ZsdVIBGJmsquQWPKvJjGpmgkL7hQ?e=cEmjb
   -
@@ -241,6 +238,9 @@ aulas:
         entrega: 18/05/2023
         pontos: 1
     links:
+      -
+        titulo: Slides - Gramáticas Irrestritas
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ERC29WKIwnxGmDmbKiHXzJIBZaHjG4iA01kKnYxwz6Vhjw?e=59RXvC
       -
         titulo: Slides - Máquina de Turing 
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EbEYNIErF5tMoFPl15ZsdVIBGJmsquQWPKvJjGpmgkL7hQ?e=cEmjb
