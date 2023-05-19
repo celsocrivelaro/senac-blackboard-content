@@ -157,3 +157,6 @@ aulas:
       -
         titulo: Código - Hierárquico
         url: https://replit.com/@celsosenac/hierarquico
+      -
+        titulo: Código - DBSCAN
+        url: https://replit.com/@celsosenac/dbscan
