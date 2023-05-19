@@ -122,3 +122,38 @@ aulas:
       -
         titulo: Código - Fuzzy
         url: hhttps://replit.com/@celsosenac/fuzzy#main.py
+  -
+    pasta: Aula 13 - Aprendizado não-supervisionado: Clustering e Associações
+    data: 19/05/2023
+    exercicios:
+      -
+        titulo: Ex13.1 - K-Means
+        descricao: https://spsenacbr-my.sharepoint.com/:x:/g/personal/celso_vcrivelaro_sp_senac_br/EZnec-YIqlVGvRNnry5oXu0BJkOAKdZPzgivUwtWjrZelg
+        entrega: 19/05/2023
+        pontos: 1
+      -
+        titulo: Ex13.2 - Dendograma
+        descricao: https://spsenacbr-my.sharepoint.com/:x:/g/personal/celso_vcrivelaro_sp_senac_br/EbTnwARMC-lDp2rEEeZZXWoBITf6KiIN1VnhEN43EPTW4A?e=FHGAEl
+        entrega: 19/05/2023
+        pontos: 1
+      -
+        titulo: Ex13.3 - Regras de Associação
+        descricao: https://spsenacbr-my.sharepoint.com/:x:/g/personal/celso_vcrivelaro_sp_senac_br/EYCnP3kMpRlLtjRJju_FM2UBmVNEq2SFxbtCtKOSJdtaYA?e=rrxcqf
+        entrega: 19/05/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Aprendizado não-supervisionado
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ERFl9vcvy3RMkclAeDqgKIAB1fiXVKI90IrtDRL2hUgXNA?e=rsnUC3
+      -
+        titulo: Slides - Clusterização/Agrupamento
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EdWy_gLfPz5Kivj-RyrXiCQBISDXKgPurNfXghDAyI8n4Q?e=mwgEbP
+      -
+        titulo: Slides - Associação
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Ed5ah0qoIo9CvAfW9ZWJaNkBNEp6PAFQ7VU2GEHsZe0RMQ?e=zVqP02
+      -
+        titulo: Código - K-means
+        url: https://replit.com/@celsosenac/kmeans
+      -
+        titulo: Código - Hierárquico
+        url: https://replit.com/@celsosenac/hierarquico
