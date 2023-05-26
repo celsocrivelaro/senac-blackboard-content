@@ -123,7 +123,7 @@ aulas:
         titulo: Código - Fuzzy
         url: hhttps://replit.com/@celsosenac/fuzzy#main.py
   -
-    pasta: Aula 13 - Aprendizado não-supervisionado com Clustering e Associações
+    pasta: Aula 13 - Aprendizado não-supervisionado com Clustering
     data: 19/05/2023
     exercicios:
       -
@@ -136,11 +136,6 @@ aulas:
         descricao: https://spsenacbr-my.sharepoint.com/:x:/g/personal/celso_vcrivelaro_sp_senac_br/EbTnwARMC-lDp2rEEeZZXWoBITf6KiIN1VnhEN43EPTW4A?e=FHGAEl
         entrega: 19/05/2023
         pontos: 1
-      -
-        titulo: Ex13.3 - Regras de Associação
-        descricao: https://spsenacbr-my.sharepoint.com/:x:/g/personal/celso_vcrivelaro_sp_senac_br/EYCnP3kMpRlLtjRJju_FM2UBmVNEq2SFxbtCtKOSJdtaYA?e=rrxcqf
-        entrega: 19/05/2023
-        pontos: 1
     links:
       -
         titulo: Slides - Aprendizado não-supervisionado
@@ -148,9 +143,6 @@ aulas:
       -
         titulo: Slides - Clusterização/Agrupamento
         url: https://spsenacbr-my.sharepoint.com/:x:/g/personal/celso_vcrivelaro_sp_senac_br/EbTnwARMC-lDp2rEEeZZXWoBMYQYvOYXBYnSDpPMJlBWgg?e=E6TIZr
-      -
-        titulo: Slides - Associação
-        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Ed5ah0qoIo9CvAfW9ZWJaNkBNEp6PAFQ7VU2GEHsZe0RMQ?e=zVqP02
       -
         titulo: Código - K-means
         url: https://replit.com/@celsosenac/kmeans
@@ -160,3 +152,22 @@ aulas:
       -
         titulo: Código - DBSCAN
         url: https://replit.com/@celsosenac/dbscan
+  -
+    pasta: Aula 14 - Aprendizado não-supervisionado com Associações e PCA
+    data: 26/05/2023
+    exercicios:
+      -
+        titulo: Ex14.1 - Regras de Associação
+        descricao: https://spsenacbr-my.sharepoint.com/:x:/g/personal/celso_vcrivelaro_sp_senac_br/EYCnP3kMpRlLtjRJju_FM2UBmVNEq2SFxbtCtKOSJdtaYA?e=rrxcqf
+        entrega: 26/05/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Aprendizado não-supervisionado
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ERFl9vcvy3RMkclAeDqgKIAB1fiXVKI90IrtDRL2hUgXNA?e=rsnUC3
+      -
+        titulo: Slides - Associação
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Ed5ah0qoIo9CvAfW9ZWJaNkBNEp6PAFQ7VU2GEHsZe0RMQ?e=zVqP02
+      -
+        titulo: Código - PCA
+        url: https://replit.com/@celsosenac/pca
