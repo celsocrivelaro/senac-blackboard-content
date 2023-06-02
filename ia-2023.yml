@@ -172,7 +172,7 @@ aulas:
         titulo: Código - PCA
         url: https://replit.com/@celsosenac/pca
   -
-    pasta:  Aula 15 - Aprendizado supervisionado: Naive Bayes e Árvores de Decisão
+    pasta:  Aula 15 - Aprendizado supervisionado com Naive Bayes e Árvores de Decisão
     data: 02/06/2023
     exercicios:
       -
