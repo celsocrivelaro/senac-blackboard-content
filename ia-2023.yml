@@ -171,3 +171,27 @@ aulas:
       -
         titulo: Código - PCA
         url: https://replit.com/@celsosenac/pca
+  -
+    pasta:  Aula 15 - Aprendizado supervisionado: Naive Bayes e Árvores de Decisão
+    data: 02/06/2023
+    exercicios:
+      -
+        titulo: Ex15.1 Naive Bayes
+        descricao: https://spsenacbr-my.sharepoint.com/:x:/g/personal/celso_vcrivelaro_sp_senac_br/EXU5gn8kFbJPih9FwH7jknsB4z9_D_98hEahaATINZDZVA?e=TkJm7J
+        entrega: 02/06/2023
+        pontos: 0
+       -
+        titulo: Ex15.1. Árvores de Decisão
+        descricao: https://spsenacbr-my.sharepoint.com/:x:/g/personal/celso_vcrivelaro_sp_senac_br/EX9ThSc4shhAnzGu49InwvsBGh8aul2G8vyFaFP2FWpoxw
+        entrega: 02/06/2023
+        pontos: 0
+    links:
+      -
+        titulo: Slides - Árvores de Decisão
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Eb0vDnP4oDBOhLnU_tLrMnYB0Kaok6Mv3Ocj_oiSX60lRg
+      -
+        titulo: Slides - Estocástico com Naive Bayes
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ET1fEBOJ23RKtKyIyu0FvcwBn3SsOVQw0Pq7kHkrO56JyA?e=YFz4zf
+      -
+        titulo: Slide - Ética em AI
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EZNabEls3uhEhR2cV4vh56MBXLYxP2DTjnscL9kBpzBfPw?e=r597fH
