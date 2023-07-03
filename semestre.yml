@@ -11,3 +11,9 @@ disciplinas:
     dia: 5
     semestre: 1
     course_id: _204407_1
+  -
+    nome: Projeto Integrador 2023
+    url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/pi-ia-2023.yml
+    dia: 0
+    semestre: 1
+    course_id: _206488_1
