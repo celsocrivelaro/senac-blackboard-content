@@ -1,0 +1,19 @@
+disciplina: Paradigmas
+course_id: _219948_1
+aulas:
+  -
+    pasta: "Aula 01 - Extração de Dados"
+    data: 07/08/2023
+    exercicios:
+      -
+        titulo: "Ex01 - Extração"
+        descricao: https://www.notion.so/crivelaro/Ex01-Scrapper-5c25e01da7504b2599b53296674f073e
+        entrega: 07/08/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Introdução
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EU1FhJUDw9dEqIyfTxQ7bKYBk64T0zP8yoeFN42_TaaWlg
+      -
+        titulo: Slides - Extração de Dados
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EUu9XtmLI2VFqI8SV4cgFJgBBvNyOhbrDS2da7bWXgOXOA?e=yQaicR
