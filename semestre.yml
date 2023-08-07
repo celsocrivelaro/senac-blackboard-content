@@ -2,12 +2,12 @@ disciplinas:
   -
     nome: Ciência de Dados 2023
     url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/cd-2023.yml
-    dia: 0
+    dia: 1
     semestre: 2
     course_id: _219948_1
   -
     nome: Paradigmas 2023
     url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/paradigmas-2023.yml
-    dia: 0
+    dia: 1
     semestre: 2
     course_id: _219947_1
