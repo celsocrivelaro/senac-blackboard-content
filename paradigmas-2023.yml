@@ -1,0 +1,22 @@
+disciplina: Paradigmas
+course_id: _219947_1
+aulas:
+  -
+    pasta: "Aula 01 - Ecossistema e Ambientes de Execução"
+    data: 07/08/2023
+    exercicios:
+      -
+        titulo: "Ex01 - Apresentação da Linguagem"
+        descricao: https://www.notion.so/crivelaro/Parte-1-Ecossistema-e-Tipos-38bc9235e688458c86f1bbd7edf85bb2?pvs=4
+        entrega: 07/08/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Introdução
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Eay2ZXkiL2RKkFS9IQvlUIkBoiEaD9gGykzjxCTbVHq3RA?e=1v5Jzd
+      -
+        titulo: Slides - Ecossistema
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ET21i4b4S_ZFkx7-y-VrnnABMmwq9C9HMJJkFBs8IYzrVQ?e=vnjBxX
+      -
+        titulo: Slides - Ambientes de Execução
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVCK-LcfXyJHtzCfpmmBWrQB7x52yTb_8JVJWZHm-Rytjw?e=mnqccD
