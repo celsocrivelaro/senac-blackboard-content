@@ -2,7 +2,7 @@ disciplina: Paradigmas
 course_id: _219947_1
 aulas:
   -
-    pasta: "Aula 01 - Introdução e "
+    pasta: "Aula 01 - Ecossistema e Ambientes de Execução"
     data: 07/08/2023
     exercicios:
       -
