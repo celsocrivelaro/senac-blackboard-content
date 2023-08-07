@@ -12,8 +12,20 @@ disciplinas:
     semestre: 1
     course_id: _204407_1
   -
-    nome: Projeto Integrador 2023
+    nome: Projeto Integrador: Aplicações de IA 2023
     url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/pi-ia-2023.yml
     dia: 0
     semestre: 1
     course_id: _206488_1
+  -
+    nome: Ciência de Dados 2023
+    url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/cd-2023.yml
+    dia: 0
+    semestre: 2
+    course_id: _219948_1
+  -
+    nome: Paradigmas 2023
+    url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/paradigmas-2023.yml
+    dia: 0
+    semestre: 2
+    course_id: _219947_1
