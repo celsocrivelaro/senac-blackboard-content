@@ -1,23 +1,5 @@
 disciplinas:
   -
-    nome: Linguagens Formais e Autômatos 2023
-    url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/lfa-2023.yml
-    dia: 4
-    semestre: 1
-    course_id: _204404_1
-  -
-    nome: Inteligência Artificial 2023
-    url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/ia-2023.yml
-    dia: 5
-    semestre: 1
-    course_id: _204407_1
-  -
-    nome: Projeto Integrador: Aplicações de IA 2023
-    url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/pi-ia-2023.yml
-    dia: 0
-    semestre: 1
-    course_id: _206488_1
-  -
     nome: Ciência de Dados 2023
     url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/cd-2023.yml
     dia: 0
