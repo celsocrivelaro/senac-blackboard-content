@@ -3,7 +3,7 @@ course_id: _220326_1
 aulas:
   -
     pasta: "Aula 01 - Introdução ao Python"
-    data: 11/08/2023
+    data: 12/08/2023
     exercicios:
       -
         titulo: "01 - Python básico"
