@@ -1,0 +1,23 @@
+disciplina: Ciência de Dados - BSI
+course_id: _220326_1
+aulas:
+  -
+    pasta: "Aula 01 - Introdução ao Python"
+    data: 11/08/2023
+    exercicios:
+      -
+        titulo: "01 - Python básico"
+        descricao: https://crivelaro.notion.site/Ex01-Introdu-o-a-Python-2dd35eb4c44b45599da648ccc8881544?pvs=4
+        entrega: 11/08/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Slides - Introdução à Discipline"
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EU1FhJUDw9dEqIyfTxQ7bKYBk64T0zP8yoeFN42_TaaWlg
+      -
+        titulo: "Replit com Introdução ao Python"
+        url: https://replit.com/@celsosenac/aula00-Introducao-ao-Python
+      -
+        titulo: "Vídeo com Introdução ao Python"
+        url: https://www.youtube.com/watch?v=VcjVtmlb1m4
+      
