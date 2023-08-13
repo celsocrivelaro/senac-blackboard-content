@@ -22,7 +22,7 @@ aulas:
     data: 14/08/2023
     exercicios:
       -
-        titulo: "Ex02 - Extração"
+        titulo: "Ex02 - Extração por Scrapying - Scrapy"
         descricao: https://www.notion.so/crivelaro/Ex01-Scrapper-5c25e01da7504b2599b53296674f073e
         entrega: 14/08/2023
         pontos: 1
