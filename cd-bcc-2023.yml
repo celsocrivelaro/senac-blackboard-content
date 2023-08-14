@@ -22,8 +22,18 @@ aulas:
     data: 14/08/2023
     exercicios:
       -
-        titulo: "Ex02 - Extração por Scrapying - Scrapy"
-        descricao: https://www.notion.so/crivelaro/Ex01-Scrapper-5c25e01da7504b2599b53296674f073e
+        titulo: "Ex02.1 - Extração por Scraping - Scrapy"
+        descricao: https://crivelaro.notion.site/Ex01-1-Scraper-de-Pok-mons-com-Scrapy-5c25e01da7504b2599b53296674f073e?pvs=4
+        entrega: 14/08/2023
+        pontos: 1
+      -
+        titulo: "Ex02.2 - Extração por API"
+        descricao: https://crivelaro.notion.site/Ex01-2-API-de-Pokemons-825ea99bed504b95947a528213ab165f?pvs=4
+        entrega: 14/08/2023
+        pontos: 1
+      -
+        titulo: "Ex02.2 - Extração por Puppetter"
+        descricao: https://crivelaro.notion.site/Ex02-3-Scraper-de-Pok-mons-com-Puppeteer-67579d70d8d94f169aa639388eb62620?pvs=4
         entrega: 14/08/2023
         pontos: 1
     links:
