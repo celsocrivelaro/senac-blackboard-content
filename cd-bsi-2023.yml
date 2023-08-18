@@ -20,6 +20,7 @@ aulas:
       -
         titulo: "Vídeo com Introdução ao Python"
         url: https://www.youtube.com/watch?v=VcjVtmlb1m4
+  -
     pasta: "Aula 02 - Extração de Dados"
     data: 18/08/2023
     exercicios:
