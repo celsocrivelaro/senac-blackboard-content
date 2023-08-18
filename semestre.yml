@@ -1,19 +1,25 @@
 disciplinas:
   -
-    nome: Ciência de Dados BCC 2023
+    nome: "Ciência de Dados BCC 2023"
     url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/cd-bcc-2023.yml
     dia: 1
     semestre: 2
     course_id: _219948_1
   -
-    nome: Paradigmas BCC 2023
+    nome: "Paradigmas BCC 2023"
     url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/paradigmas-2023.yml
     dia: 1
     semestre: 2
     course_id: _219947_1
   -
-    nome: Ciência de Dados BSI 2023
+    nome: "Ciência de Dados BSI 2023"
     url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/cd-bsi-2023.yml
-    dia: 6
+    dia: 5
     semestre: 2
     course_id: _220326_1
+  -
+    nome: "PI: Computação Científica 2023"
+    url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/pi-cientifica-2023.yml
+    dia: 5
+    semestre: 2
+    course_id: _221813_1
