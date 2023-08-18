@@ -1,0 +1,16 @@
+disciplina: "Projeto Integrador: Computação Científica"
+course_id: _221813_1
+aulas:
+  -
+    pasta: "Aula 02 - Numpy"
+    data: 18/08/2023
+    exercicios:
+      -
+        titulo: "Ex02 - Numpy"
+        descricao: https://crivelaro.notion.site/Ex02-NumPy-0eea0a6e66d44fb3972af7f1b217d5e0?pvs=4
+        entrega: 23/08/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Vídeo - Numpy"
+        url: https://youtu.be/R9veLq6xt6o
