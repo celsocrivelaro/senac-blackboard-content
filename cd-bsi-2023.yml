@@ -36,3 +36,35 @@ aulas:
       -
         titulo: "Notas de aula - Extração por Scrapers"
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EUu9XtmLI2VFqI8SV4cgFJgBBvNyOhbrDS2da7bWXgOXOA?e=yQaicR
+  -
+    pasta: "Aula 03 - OLAP e Star Schema"
+    data: 18/08/2023
+    exercicios:
+      -
+        titulo: "Ex02 - Extração por Scraping - Scrapy"
+        descricao: https://crivelaro.notion.site/Ex01-1-Scraper-de-Pok-mons-com-Scrapy-5c25e01da7504b2599b53296674f073e?pvs=4
+        entrega: 18/08/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Slides - Extração de Dados"
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EUu9XtmLI2VFqI8SV4cgFJgBBvNyOhbrDS2da7bWXgOXOA?e=yQaicR
+      -
+        titulo: "Notas de aula - Extração por Scrapers"
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EUu9XtmLI2VFqI8SV4cgFJgBBvNyOhbrDS2da7bWXgOXOA?e=yQaicR
+  -
+    pasta: "Aula 04 - Extração e OLAP"
+    data: 18/08/2023
+    exercicios:
+      -
+        titulo: "Ex02 - Extração por Scraping - Scrapy"
+        descricao: https://crivelaro.notion.site/Ex01-1-Scraper-de-Pok-mons-com-Scrapy-5c25e01da7504b2599b53296674f073e?pvs=4
+        entrega: 18/08/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Slides - Extração de Dados"
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EUu9XtmLI2VFqI8SV4cgFJgBBvNyOhbrDS2da7bWXgOXOA?e=yQaicR
+      -
+        titulo: "Notas de aula - Extração por Scrapers"
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EUu9XtmLI2VFqI8SV4cgFJgBBvNyOhbrDS2da7bWXgOXOA?e=yQaicR
