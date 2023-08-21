@@ -33,3 +33,25 @@ aulas:
       -
         titulo: "Notas de aula - Extração por Scrapers"
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EUu9XtmLI2VFqI8SV4cgFJgBBvNyOhbrDS2da7bWXgOXOA?e=yQaicR
+  -
+    pasta: "Aula 03 - Extração de Dados"
+    data: 21/08/2023
+    exercicios:
+      -
+        titulo: "Ex03 - Star Schema"
+        descricao: https://crivelaro.notion.site/Ex03-Star-Schema-7aece1b1fa404a3f9f639e01a0ff176c
+        entrega: 21/08/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Notas de aula - Data warehouse"
+        url: https://crivelaro.notion.site/Data-Warehouse-2e4301fcea7744829666a5c7b785e0a6
+      -
+        titulo: "OLTP e OLAP"
+        url: https://crivelaro.notion.site/OLTP-e-OLAP-971ebdbd892c4a298f3267c6661ee788
+      -
+        titulo: "Cubo"
+        url: https://crivelaro.notion.site/Cubo-886acd3446e6421f99a1a7713277b8d3
+      -
+        titulo: "Star Schema"
+        url: https://crivelaro.notion.site/Arquitetura-de-um-Cubo-Star-Schema-b7a425cc7815493e89b73379f93ced79
