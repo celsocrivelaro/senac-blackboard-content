@@ -20,6 +20,6 @@ disciplinas:
   -
     nome: "PI: Computação Científica 2023"
     url: https://raw.githubusercontent.com/celsocrivelaro/senac-blackboard-content/main/pi-cientifica-2023.yml
-    dia: 5
+    dia: 4
     semestre: 2
     course_id: _221813_1
