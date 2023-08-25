@@ -14,3 +14,19 @@ aulas:
       -
         titulo: "Vídeo - Numpy"
         url: https://youtu.be/R9veLq6xt6o
+  -
+    pasta: "Aula 03 - Matplotlib"
+    data: 24/08/2023
+    exercicios:
+      -
+        titulo: "Ex03 - Matplotlib"
+        descricao: https://crivelaro.notion.site/Ex03-Matplotlib-b0a12ae38b934137a55c5c4f228f6dfa?pvs=4
+        entrega: 30/08/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Vídeo - Matplotlib"
+        url: https://youtu.be/R9veLq6xt6o
+      -
+        titulo: "Colab - Matplotlib"
+        url: https://colab.research.google.com/drive/117ey0oBJIOOQyTfrllW-NFlB1DaEYWBp
