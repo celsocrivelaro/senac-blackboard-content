@@ -34,7 +34,7 @@ aulas:
         titulo: "Notas de aula - Extração por Scrapers"
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EUu9XtmLI2VFqI8SV4cgFJgBBvNyOhbrDS2da7bWXgOXOA?e=yQaicR
   -
-    pasta: "Aula 03 - Extração de Dados"
+    pasta: "Aula 03 - OLAP - Star schema"
     data: 21/08/2023
     exercicios:
       -
@@ -55,3 +55,31 @@ aulas:
       -
         titulo: "Star Schema"
         url: https://crivelaro.notion.site/Arquitetura-de-um-Cubo-Star-Schema-b7a425cc7815493e89b73379f93ced79
+  -
+    pasta: "Aula 04 - OLAP: Operações com Cubos"
+    data: 28/08/2023
+    exercicios:
+      -
+        titulo: "Ex04 - Operações com cubos"
+        descricao: https://crivelaro.notion.site/Ex04-Opera-es-com-Cubo-7f281fc6edc446afa411b311e7418a7f?pvs=4
+        entrega: 28/08/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Operações de Cubo em PostgreSQL"
+        url: https://crivelaro.notion.site/Opera-es-de-Cubo-em-PostgreSQL-d8bd8f5ea90c4c40ad111e128fd44110?pvs=4
+      -
+        titulo: "Notas de aula - Drill-down"
+        url: https://crivelaro.notion.site/Drill-down-e3b85205d6d6433b9059a8c32deeecf7?pvs=4
+      -
+        titulo: "Notas de aula - Roll-up"
+        url: https://crivelaro.notion.site/Roll-Up-57b204ecdf344596a1373283fed56b4b?pvs=4
+      -
+        titulo: "Notas de aula - Slice"
+        url: https://crivelaro.notion.site/Slice-555bb549e66d42be8d65f9dfe812d723?pvs=4
+      -
+        titulo: "Notas de aula - Dice"
+        url: https://crivelaro.notion.site/Dice-7b80de811ccd44d5a46da4d470e29bf8?pvs=4
+      -
+        titulo: "Notas de aula - "
+        url: https://crivelaro.notion.site/Pivot-214b45b870d34f8586b0a9ab9044c002?pvs=4
