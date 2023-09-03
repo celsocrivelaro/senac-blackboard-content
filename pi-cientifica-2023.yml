@@ -30,3 +30,25 @@ aulas:
       -
         titulo: "Colab - Matplotlib"
         url: https://colab.research.google.com/drive/117ey0oBJIOOQyTfrllW-NFlB1DaEYWBp
+  -
+    pasta: "Aula 04 - Computação Científica, Métodos Numéricos e Séries de Taylor"
+    data: 03/09/2023
+    exercicios:
+      -
+        titulo: "Ex04 - Séeries de Taylor"
+        descricao: https://crivelaro.notion.site/Ex04-S-ries-de-Taylor-a4ed9f2a6eea47bd873184ee181274ee?pvs=4
+        entrega: 10/09/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Vídeo - Séries de Taylor"
+        url: https://youtu.be/kAj932N8X40
+      -
+        titulo: "Colab - Matplotlib"
+        url: https://colab.research.google.com/drive/14a6wnOOOv8yzfvRtfHvMoGIkOAIQnoJN?usp=sharing
+      -
+        titulo: "Slides - Computação Científica"
+        url: http://cientifica.crivelaro.me/04.0-computacao-cientifica.html
+      -
+        titulo: "Slides - Métodos Numéricos"
+        url: http://cientifica.crivelaro.me/04.1-metodos-numericos.html
