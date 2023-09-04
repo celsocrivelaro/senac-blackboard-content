@@ -93,3 +93,6 @@ aulas:
       -
         titulo: Tutorial - Introdução ao Haskell
         url: https://wiki.haskell.org/A_brief_introduction_to_Haskell
+      -
+        titulo: Livro Haskell
+        url: http://learnyouahaskell.com/
