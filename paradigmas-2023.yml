@@ -68,3 +68,25 @@ aulas:
         descricao: https://crivelaro.notion.site/Ex04-C-Lua-84d22d0f4b7c46faa8fbde9eb50c2cd2?pvs=4
         entrega: 28/08/2023
         pontos: 1
+  -
+    pasta: "Aula 05 - Introdução ao Funcional"
+    data: 04/09/2023
+    exercicios:
+      -
+        titulo: "Ex05 - Funcional"
+        descricao: https://crivelaro.notion.site/Ex05-Introdu-o-ao-Funcional-779159196bac459c8dc25ccab4ab4559
+        entrega: 04/09/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Introdução ao Funcional
+        url: http://paradigmas.crivelaro.me/05-funcional.html
+      -
+        titulo: Replit - Haskell
+        url: https://replit.com/@celsosenac/ex05-introducao
+      -
+        titulo: Artigo - LISP
+        url: https://community.revelo.com.br/as-quatro-linguagens-maes-lisp/
+      -
+        titulo: Artigo - Fortran
+        url: https://community.revelo.com.br/as-quatro-linguagens-maes-fortran/
