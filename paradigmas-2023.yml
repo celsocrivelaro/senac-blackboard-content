@@ -90,3 +90,6 @@ aulas:
       -
         titulo: Artigo - Fortran
         url: https://community.revelo.com.br/as-quatro-linguagens-maes-fortran/
+      -
+        titulo: Tutorial - Introdução ao Haskell
+        url: https://wiki.haskell.org/A_brief_introduction_to_Haskell
