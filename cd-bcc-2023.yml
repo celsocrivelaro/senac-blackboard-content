@@ -99,3 +99,19 @@ aulas:
       -
         titulo: "Notas de aula - MapReduce"
         url: https://crivelaro.notion.site/MapReduce-6ed762a9070c4ca5b5ca62ef074b1a29
+  -
+    pasta: "Aula 06 - Testes estatísticos"
+    data: 11/09/2023
+    exercicios:
+      -
+        titulo: "Ex06 - Testes Estatísticos"
+        descricao: https://crivelaro.notion.site/Ex06-Testes-Estat-sticos-7b22b5bf9441460889f2a68e3d6b3218
+        entrega: 11/09/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Slides - Testes estatísticos"
+        url: http://dados.crivelaro.me/05-testes-estatistico.html
+      -
+        titulo: "Notas de aula - Testes estatísticos"
+        url: https://colab.research.google.com/drive/12UaA4QMhfC_zZRP4vYw85MG58mwLNozn#scrollTo=-cuEFh1I-nML
