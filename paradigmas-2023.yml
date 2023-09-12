@@ -96,3 +96,19 @@ aulas:
       -
         titulo: Livro Haskell
         url: http://learnyouahaskell.com/
+  -
+    pasta: "Aula 06 - Tipos Algébricos"
+    data: 11/09/2023
+    exercicios:
+      -
+        titulo: "Ex05 - Tipos Algébricos"
+        descricao: https://crivelaro.notion.site/Ex06-Tipos-Alg-bricos-0304dc4f95254336be43b263f3384c04?pvs=4
+        entrega: 11/09/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Tipos
+        url: http://paradigmas.crivelaro.me/06-tipos.html
+      -
+        titulo: Repl.it - Tipos Algébricos
+        url: https://replit.com/@celsosenac/algebric-data-types
