@@ -118,3 +118,19 @@ aulas:
       -
         titulo: "Notas de aula - Pivot"
         url: https://crivelaro.notion.site/Pivot-214b45b870d34f8586b0a9ab9044c002?pvs=4
+  -
+    pasta: "Aula 05 - Testes estatísticos"
+    data: 15/09/2023
+    exercicios:
+      -
+        titulo: "Ex05 - Testes Estatísticos"
+        descricao: https://crivelaro.notion.site/Ex06-Testes-Estat-sticos-7b22b5bf9441460889f2a68e3d6b3218
+        entrega: 15/09/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Slides - Testes estatísticos"
+        url: http://dados.crivelaro.me/05-testes-estatistico.html
+      -
+        titulo: "Notas de aula - Testes estatísticos"
+        url: https://colab.research.google.com/drive/12UaA4QMhfC_zZRP4vYw85MG58mwLNozn#scrollTo=-cuEFh1I-nML
