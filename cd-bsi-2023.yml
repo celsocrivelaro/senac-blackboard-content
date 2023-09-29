@@ -134,3 +134,16 @@ aulas:
       -
         titulo: "Notas de aula - Testes estatísticos"
         url: https://colab.research.google.com/drive/12UaA4QMhfC_zZRP4vYw85MG58mwLNozn#scrollTo=-cuEFh1I-nML
+  -
+    pasta: "Aula 07 - Correlação e Regressão"
+    data: 29/09/2023
+    exercicios:
+      -
+        titulo: "Ex07 - Correlação e Regressão"
+        descricao: https://crivelaro.notion.site/Ex08-Correla-o-e-Regress-o-12f60b92470a46db8cc21bf1513957af?pvs=4
+        entrega: 29/09/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Slides - Correlação e Regressão"
+        url: http://dados.crivelaro.me/07-correlacao-regressao.html#/title-slide
