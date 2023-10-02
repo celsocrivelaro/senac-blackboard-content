@@ -131,3 +131,28 @@ aulas:
       -
         titulo: Função Parcial
         url: https://replit.com/@celsosenac/currying-avancado#main.clj
+  -
+    pasta: "Aula 09 - Concorrência com Corrotinas"
+    data: 02/10/2023
+    exercicios:
+      -
+        titulo: "Ex09 - Corrotinas"
+        descricao: https://replit.com/@celsosenac/exercicio-corrotina
+        entrega: 02/10/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Processos e Threads
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EZUfovjHxqxMsDBLn8vBpugBX0VPz_B3yFGUUsTmDgIyPw?e=LwcgT6
+      -
+        titulo: Slides - Corrotinas
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ETfr_ml93TlAuccYz0Cr3LsB4lNy6ae9Fvr1XiMJW8bAmg?e=ecNSPI
+      -
+        titulo: Replit - Corrotinas
+        url: https://replit.com/@celsosenac/concorrencia-corrotina
+      -
+        titulo: Replit - Corrotinas com Canal
+        url: https://replit.com/@celsosenac/concorrencia-corrotina-canal
+      -
+        titulo: Replit - Corrotinas com select - Canal
+        url: https://replit.com/@celsosenac/concorrencia-corrotina-select
