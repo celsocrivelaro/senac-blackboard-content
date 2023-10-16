@@ -156,3 +156,16 @@ aulas:
       -
         titulo: Replit - Corrotinas com select - Canal
         url: https://replit.com/@celsosenac/concorrencia-corrotina-select
+  -
+    pasta: "Aula 11 - Concorrência com Promises"
+    data: 16/10/2023
+    exercicios:
+      -
+        titulo: "Ex11 - Promises"
+        descricao: https://replit.com/@celsosenac/ex-async-await
+        entrega: 16/10/2023
+        pontos: 1
+    links:
+      -
+        titulo: Replit - Promises
+        url: https://replit.com/@celsosenac/async-await 
