@@ -141,3 +141,22 @@ aulas:
       -
         titulo: "Slides - Documentos"
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVDlv-kDeI9PjwtTsTJLCz4BFoBCrlQ_DzbuZsXvllJ7dg?e=87diZq
+  -
+    pasta: "Aula 11 - NOSQL: Grafos"
+    data: 16/10/2023
+    exercicios:
+      -
+        titulo: "Ex11 - Grafos"
+        descricao: https://www.notion.so/crivelaro/Ex12-Grafos-com-Neo4J-bcac1f7a425a43158df05d9821e8a024?pvs=4
+        entrega: 15/10/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Slides - Grafos"
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVDlv-kDeI9PjwtTsTJLCz4BFoBCrlQ_DzbuZsXvllJ7dg?e=87diZq
+      -
+        titulo: "Replit - Criar Dados"
+        url: https://replit.com/@celsosenac/aula14-banco-grafo-criar-aula
+      -
+        titulo: "Replit - Consultadr Dados"
+        url: https://replit.com/@celsosenac/aula14-banco-grafo-consulta
