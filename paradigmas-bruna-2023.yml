@@ -1,0 +1,171 @@
+disciplina: Paradigmas
+course_id: _219947_1
+aulas:
+  -
+    pasta: "Aula 01 - Ecossistema e Ambientes de Execução"
+    data: 07/08/2023
+    exercicios:
+      -
+        titulo: "Ex01 - Apresentação da Linguagem"
+        descricao: https://www.notion.so/crivelaro/Parte-1-Ecossistema-e-Tipos-38bc9235e688458c86f1bbd7edf85bb2?pvs=4
+        entrega: 07/08/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Introdução
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Eay2ZXkiL2RKkFS9IQvlUIkBoiEaD9gGykzjxCTbVHq3RA?e=1v5Jzd
+      -
+        titulo: Slides - Ecossistema
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ET21i4b4S_ZFkx7-y-VrnnABMmwq9C9HMJJkFBs8IYzrVQ?e=vnjBxX
+  -
+    pasta: "Aula 02 - Ambientes de Execução e Tipos"
+    data: 14/08/2023
+    links:
+      -
+        titulo: Slides - Ecossistema
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ET21i4b4S_ZFkx7-y-VrnnABMmwq9C9HMJJkFBs8IYzrVQ?e=vnjBxX
+      -
+        titulo: Slides - Tipagem
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Eeys3toXlZ9FvDWYzNFwa4cBnffWoZOsaevih_5azcDqqA?e=QOxIjk
+    exercicios:
+      -
+        titulo: "Ex02 - Ambiente de Execução e Tipagem"
+        descricao: https://www.notion.so/crivelaro/Parte-1-Ecossistema-e-Tipos-38bc9235e688458c86f1bbd7edf85bb2?pvs=4
+        entrega: 14/08/2023
+        pontos: 1
+  -
+    pasta: "Aula 03 - Linguagens de Script"
+    data: 21/08/2023
+    links:
+      -
+        titulo: Slides - Linguagens de Script
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EbjMG2hV-5dMuu01Y4zcMwkBQZ3gFarqkhfZsMlUhKsKdA?e=DrlBQE
+      -
+        titulo: Replit - Lua
+        url: https://replit.com/@celsosenac/aula03-lua
+    exercicios:
+      -
+        titulo: "Ex03 - Script: Lua"
+        descricao: https://crivelaro.notion.site/Ex03-Linguagens-de-Script-em-LUA-848a9c398c084c45abeadc238d833e29?pvs=4
+        entrega: 21/08/2023
+        pontos: 1
+  -
+    pasta: "Aula 04 - Linguagens de Sistema"
+    data: 28/08/2023
+    links:
+      -
+        titulo: Slides - Linguagens de Sistema
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/Ecxq7aMtbz5Kko9jtvaVrwkBt6l8WqLIRM91apQLSx9oIQ?e=4oDMvu
+      -
+        titulo: Replit - Lua
+        url: https://replit.com/@celsosenac/aula03-lua
+      -
+        titulo: Artigo - 50 anos de C
+        url: https://community.revelo.com.br/50-anos-historia-de-c-e-porque-esta-ainda-e-relevante/
+    exercicios:
+      -
+        titulo: "Ex04 - Sistema: C+Lua"
+        descricao: https://crivelaro.notion.site/Ex04-C-Lua-84d22d0f4b7c46faa8fbde9eb50c2cd2?pvs=4
+        entrega: 28/08/2023
+        pontos: 1
+  -
+    pasta: "Aula 05 - Introdução ao Funcional"
+    data: 04/09/2023
+    exercicios:
+      -
+        titulo: "Ex05 - Funcional"
+        descricao: https://crivelaro.notion.site/Ex05-Introdu-o-ao-Funcional-779159196bac459c8dc25ccab4ab4559
+        entrega: 04/09/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Introdução ao Funcional
+        url: http://paradigmas.crivelaro.me/05-funcional.html
+      -
+        titulo: Replit - Haskell
+        url: https://replit.com/@celsosenac/ex05-introducao
+      -
+        titulo: Artigo - LISP
+        url: https://community.revelo.com.br/as-quatro-linguagens-maes-lisp/
+      -
+        titulo: Artigo - Fortran
+        url: https://community.revelo.com.br/as-quatro-linguagens-maes-fortran/
+      -
+        titulo: Tutorial - Introdução ao Haskell
+        url: https://wiki.haskell.org/A_brief_introduction_to_Haskell
+      -
+        titulo: Livro Haskell
+        url: http://learnyouahaskell.com/
+  -
+    pasta: "Aula 06 - Tipos Algébricos"
+    data: 11/09/2023
+    exercicios:
+      -
+        titulo: "Ex06 - Tipos Algébricos"
+        descricao: https://crivelaro.notion.site/Ex06-Tipos-Alg-bricos-0304dc4f95254336be43b263f3384c04?pvs=4
+        entrega: 11/09/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Tipos
+        url: http://paradigmas.crivelaro.me/06-tipos.html
+      -
+        titulo: Repl.it - Tipos Algébricos
+        url: https://replit.com/@celsosenac/algebric-data-types
+  -
+    pasta: "Aula 08 - Função Parcial e Currying"
+    data: 25/09/2023
+    exercicios:
+      -
+        titulo: "Ex08 - Função Parcial"
+        descricao: https://replit.com/@celsosenac/ex-funcao-parcial
+        entrega: 25/09/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Função Parcial e Currying
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EZRkLeWc-qJHnGFqnfwDAtUBH8cF2zIvk19aGzZI5seYCQ?e=zEk9Pu
+      -
+        titulo: Aplicação de Função Parcial
+        url: https://replit.com/@celsosenac/funcao-parcial-aplicacao-banco
+      -
+        titulo: Função Parcial
+        url: https://replit.com/@celsosenac/currying-avancado#main.clj
+  -
+    pasta: "Aula 09 - Concorrência com Corrotinas"
+    data: 02/10/2023
+    exercicios:
+      -
+        titulo: "Ex09 - Corrotinas"
+        descricao: https://replit.com/@celsosenac/exercicio-corrotina
+        entrega: 02/10/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Processos e Threads
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EZUfovjHxqxMsDBLn8vBpugBX0VPz_B3yFGUUsTmDgIyPw?e=LwcgT6
+      -
+        titulo: Slides - Corrotinas
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/ETfr_ml93TlAuccYz0Cr3LsB4lNy6ae9Fvr1XiMJW8bAmg?e=ecNSPI
+      -
+        titulo: Replit - Corrotinas
+        url: https://replit.com/@celsosenac/concorrencia-corrotina
+      -
+        titulo: Replit - Corrotinas com Canal
+        url: https://replit.com/@celsosenac/concorrencia-corrotina-canal
+      -
+        titulo: Replit - Corrotinas com select - Canal
+        url: https://replit.com/@celsosenac/concorrencia-corrotina-select
+  -
+    pasta: "Aula 11 - Concorrência com Promises"
+    data: 16/10/2023
+    exercicios:
+      -
+        titulo: "Ex11 - Promises"
+        descricao: https://replit.com/@celsosenac/ex-async-await
+        entrega: 16/10/2023
+        pontos: 1
+    links:
+      -
+        titulo: Replit - Promises
+        url: https://replit.com/@celsosenac/async-await 
