@@ -147,3 +147,25 @@ aulas:
       -
         titulo: "Slides - Correlação e Regressão"
         url: http://dados.crivelaro.me/07-correlacao-regressao.html#/title-slide
+  -
+    pasta: "Aula 09 - NOSQL com foco em Grafos"
+    data: 16/10/2023
+    exercicios:
+      -
+        titulo: "Ex09 - Grafos"
+        descricao: https://www.notion.so/crivelaro/Ex12-Grafos-com-Neo4J-bcac1f7a425a43158df05d9821e8a024?pvs=4
+        entrega: 15/10/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Slides - Grafos"
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EVDlv-kDeI9PjwtTsTJLCz4BFoBCrlQ_DzbuZsXvllJ7dg?e=87diZq
+      -
+        titulo: "Replit - Criar Dados"
+        url: https://replit.com/@celsosenac/aula14-banco-grafo-criar-aula
+      -
+        titulo: "Replit - Consultar Dados"
+        url: https://replit.com/@celsosenac/aula14-banco-grafo-consulta
+      -
+        titulo: "Artigo - Modelagem de Dados"
+        url: https://neo4j.com/blog/data-modeling-basics/
