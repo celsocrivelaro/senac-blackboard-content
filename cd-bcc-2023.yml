@@ -158,5 +158,8 @@ aulas:
         titulo: "Replit - Criar Dados"
         url: https://replit.com/@celsosenac/aula14-banco-grafo-criar-aula
       -
-        titulo: "Replit - Consultadr Dados"
+        titulo: "Replit - Consultar Dados"
         url: https://replit.com/@celsosenac/aula14-banco-grafo-consulta
+      -
+        titulo: "Artigo - Modelagem de Dados"
+        url: https://neo4j.com/blog/data-modeling-basics/
