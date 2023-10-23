@@ -163,3 +163,19 @@ aulas:
       -
         titulo: "Artigo - Modelagem de Dados"
         url: https://neo4j.com/blog/data-modeling-basics/
+  -
+    pasta: "Aula 12 - ML: Classificadores"
+    data: 23/10/2023
+    exercicios:
+      -
+        titulo: "Ex12 - Classificadores"
+        descricao: https://crivelaro.notion.site/Ex12-Classificadores-ecb3473722ff485b8dab891a4f0727e6?pvs=4
+        entrega: 23/10/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Slides - Classificadores"
+        url: http://dados.crivelaro.me/14-ml-classificadores.html
+      -
+        titulo: "Colab - Árvore de decisão"
+        url: https://colab.research.google.com/drive/1BWZ0YvjF1ocBV5njRShjPukhyNzzFjM_#scrollTo=KXq5Kdm1DMNh
