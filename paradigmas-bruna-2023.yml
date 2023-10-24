@@ -182,3 +182,16 @@ aulas:
       -
         titulo: Replit - Promises
         url: https://replit.com/@celsosenac/async-await 
+  -
+    pasta: "Aula 12 - Introdução ao Prolog"
+    data: 23/10/2023
+    exercicios:
+      -
+        titulo: "Ex12 - Introdução ao Prolog"
+        descricao: https://github.com/senac-paradigmas/prolog/blob/main/exercicios/01-filmes.pl
+        entrega: 23/10/2023
+        pontos: 1
+    links:
+      -
+        titulo: Slides - Introdução ao Prolog
+        url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EX8AFz_tGxdFjQIi7tVMGOAB0FUADTxh9wqVseffsH9ONQ?e=3qZvI5
