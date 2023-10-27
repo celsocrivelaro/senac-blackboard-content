@@ -179,3 +179,12 @@ aulas:
       -
         titulo: "Colab - Árvore de decisão"
         url: https://colab.research.google.com/drive/1BWZ0YvjF1ocBV5njRShjPukhyNzzFjM_#scrollTo=KXq5Kdm1DMNh
+      -
+        titulo: "Colab - Redes Neurais"
+        url: https://colab.research.google.com/drive/1e18aoPSokFJul3mlo0-JOSP9n5Cm1oCX#scrollTo=o5qxL_e4aTkW
+      -
+        titulo: "Colab - SVM"
+        url: https://colab.research.google.com/drive/1HTTLKM9DPMgIGCOoek-VYnKgc7rKhWjZ#scrollTo=Rq15ZsSljjmX
+      -
+        titulo: "Colab - Naive Bayes"
+        url: https://colab.research.google.com/drive/1oOdDbXNlU_ncdVCtaAkgYXXiPQxkqoE9#scrollTo=Rq15ZsSljjmX
