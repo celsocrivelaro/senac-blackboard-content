@@ -188,3 +188,19 @@ aulas:
       -
         titulo: "Colab - Naive Bayes"
         url: https://colab.research.google.com/drive/1oOdDbXNlU_ncdVCtaAkgYXXiPQxkqoE9
+  -
+    pasta: "Aula 12 - ML: Clustering"
+    data: 30/10/2023
+    exercicios:
+      -
+        titulo: "Ex12 - Clustering"
+        descricao: https://colab.research.google.com/drive/12uuzFyuK2dEfNvUKsEmQNnXcv7crQjd7#scrollTo=QwNt057Em8Qp
+        entrega: 30/10/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Clustering"
+        url: https://scikit-learn.org/stable/modules/clustering.html#
+      -
+        titulo: "Colab - Não supervisionado"
+        url: https://colab.research.google.com/drive/12uuzFyuK2dEfNvUKsEmQNnXcv7crQjd7#scrollTo=QwNt057Em8Qp
