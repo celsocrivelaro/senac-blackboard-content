@@ -187,9 +187,9 @@ aulas:
       -
         titulo: Prolog - Listas
         url: https://github.com/senac-paradigmas/prolog/blob/main/05-tuplas-listas.pl
-       -
+      -
         titulo: Prolog - Funcoes
-        url: https://github.com/senac-paradigmas/prolog/blob/main/06-listas-funcoes.pl  
-        -
+        url: https://github.com/senac-paradigmas/prolog/blob/main/06-listas-funcoes.pl
+      -
         titulo: Prolog - Recursao
-        url: https://github.com/senac-paradigmas/prolog/blob/main/02-recursao.pl  
+        url: https://github.com/senac-paradigmas/prolog/blob/main/02-recursao.pl
