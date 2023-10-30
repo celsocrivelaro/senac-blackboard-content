@@ -169,3 +169,27 @@ aulas:
       -
         titulo: Replit - Promises
         url: https://replit.com/@celsosenac/async-await 
+  -
+    pasta: "Aula 13 - Prolog: Aritmetica + listas"
+    data: 30/10/2023
+    exercicios:
+      -
+        titulo: "Ex13.1 - Prolog Recursao"
+        descricao: https://github.com/senac-paradigmas/prolog/blob/main/exercicios/04-arvore.pl
+        entrega: 30/10/2023
+        pontos: 1
+      -
+        titulo: "Ex13.2 - Funções"
+        descricao: https://github.com/senac-paradigmas/prolog/blob/main/exercicios/05-estruturas.pl
+        entrega: 30/10/2023
+        pontos: 1
+    links:
+      -
+        titulo: Prolog - Listas
+        url: https://github.com/senac-paradigmas/prolog/blob/main/05-tuplas-listas.pl
+       -
+        titulo: Prolog - Funcoes
+        url: https://github.com/senac-paradigmas/prolog/blob/main/06-listas-funcoes.pl  
+        -
+        titulo: Prolog - Recursao
+        url: https://github.com/senac-paradigmas/prolog/blob/main/02-recursao.pl  
