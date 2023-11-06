@@ -187,8 +187,13 @@ aulas:
     data: 06/11/2023
     exercicios:
       -
-        titulo: "Ex14 - Listas + Aritmética"
+        titulo: "Ex14.1 - Listas"
         descricao: https://github.com/senac-paradigmas/prolog/blob/main/exercicios/05-estruturas.pl
+        entrega: 06/11/2023
+        pontos: 1
+      -
+        titulo: "Ex14.2 - Aritmética"
+        descricao: https://github.com/senac-paradigmas/prolog/blob/main/exercicios/06-aritmetica.pl
         entrega: 06/11/2023
         pontos: 1
     links:
@@ -198,3 +203,6 @@ aulas:
       -
         titulo: Prolog - Funcoes
         url: https://github.com/senac-paradigmas/prolog/blob/main/06-listas-funcoes.pl
+      -
+        titulo: Prolog - Funcoes
+        url: https://github.com/senac-paradigmas/prolog/blob/main/07-aritmetica.pl
