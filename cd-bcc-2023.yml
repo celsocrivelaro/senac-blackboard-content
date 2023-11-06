@@ -207,3 +207,22 @@ aulas:
       -
         titulo: "Slides - Clustering"
         url: http://dados.crivelaro.me/15-clustering.html
+  -
+    pasta: "Aula 14 - ML: Preparação de dados e Redução de Dimensionalidade"
+    data: 06/11/2023
+    exercicios:
+      -
+        titulo: "Ex14 - Preparação de dados"
+        descricao: https://crivelaro.notion.site/Ex14-Tratamentos-de-dados-9d3036a7d34643e0afcb1cd400e69963?pvs=4
+        entrega: 06/11/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Colab - PCA"
+        url: https://colab.research.google.com/drive/1koMozjKWLFEmPna_U2YPbeO57wa-FoZ0#scrollTo=Xq-XkKgK5caL
+      -
+        titulo: "Colab - Tratamentos"
+        url: https://colab.research.google.com/drive/11TUIVkTtdjUaz7Z3cmbRDZvjfdtssltg#scrollTo=tmV0ytshT0BR
+      -
+        titulo: "Slides - Clustering"
+        url: http://dados.crivelaro.me/15-clustering.html
