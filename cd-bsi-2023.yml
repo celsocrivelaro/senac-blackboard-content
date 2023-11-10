@@ -200,16 +200,16 @@ aulas:
     exercicios:
       -
         titulo: "Ex11 - Clustering"
-        descricao: https://colab.research.google.com/drive/12uuzFyuK2dEfNvUKsEmQNnXcv7crQjd7#scrollTo=QwNt057Em8Qp
+        descricao: https://colab.research.google.com/drive/12uuzFyuK2dEfNvUKsEmQNnXcv7crQjd7
         entrega: 10/11/2023
         pontos: 1
     links:
       -
         titulo: "Scikit - Clustering"
-        url: https://scikit-learn.org/stable/modules/clustering.html#
+        url: https://scikit-learn.org/stable/modules/clustering.html
       -
         titulo: "Colab - Não supervisionado"
-        url: https://colab.research.google.com/drive/12uuzFyuK2dEfNvUKsEmQNnXcv7crQjd7#scrollTo=QwNt057Em8Qp
+        url: https://colab.research.google.com/drive/1LABa4UW4Ak3ieaOF1nYJ6a9TWxkG4Dwx
       -
         titulo: "Slides - Clustering"
         url: http://dados.crivelaro.me/15-clustering.html
