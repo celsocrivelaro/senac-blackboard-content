@@ -196,12 +196,12 @@ aulas:
         url: https://colab.research.google.com/drive/1oOdDbXNlU_ncdVCtaAkgYXXiPQxkqoE9
   -
     pasta: "Aula 11 - ML: Clustering"
-    data: 30/10/2023
+    data: 10/11/2023
     exercicios:
       -
         titulo: "Ex11 - Clustering"
         descricao: https://colab.research.google.com/drive/12uuzFyuK2dEfNvUKsEmQNnXcv7crQjd7#scrollTo=QwNt057Em8Qp
-        entrega: 30/10/2023
+        entrega: 10/11/2023
         pontos: 1
     links:
       -
