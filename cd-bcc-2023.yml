@@ -226,3 +226,16 @@ aulas:
       -
         titulo: "Slides - Tratamento de dados"
         url: https://spsenacbr-my.sharepoint.com/:p:/g/personal/celso_vcrivelaro_sp_senac_br/EYe2J9gV5iZFvbuvsbmowuQBdVh5_I0CQZrl6ah5Jh11OQ?e=qxDY2x
+  -
+    pasta: "Aula 15 - Séries Temporais"
+    data: 13/11/2023
+    exercicios:
+      -
+        titulo: "Ex15 - Séries Temporais"
+        descricao: https://colab.research.google.com/drive/1FZUjMtwTVOp-Ujvlm3eLliNtUvcu8o4e
+        entrega: 06/11/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Colab - Séries Temporais"
+        url: https://colab.research.google.com/drive/1iNaqurQNG31kvDglxSvPmQhoByv6z4CI
