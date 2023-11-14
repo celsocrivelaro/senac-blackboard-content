@@ -208,12 +208,12 @@ aulas:
         url: https://github.com/celsocrivelaro/senac-paradigmas/prolog/blob/main/07-aritmetica.pl
   -
     pasta: "Aula 15 - Prolog: Listas"
-    data: 30/11/2023
+    data: 13/11/2023
     exercicios:
       -
         titulo: "Ex15 - Recursão Listas"
         descricao: https://github.com/celsocrivelaro/senac-paradigmas/blob/main/prolog/exercicios/05-estruturas.pl
-        entrega: 30/11/2023
+        entrega: 13/11/2023
         pontos: 1
     links:
       -
