@@ -213,3 +213,19 @@ aulas:
       -
         titulo: "Slides - Clustering"
         url: http://dados.crivelaro.me/15-clustering.html
+  -
+    pasta: "Aula 12 - Visualização de Dados"
+    data: 17/11/2023
+    exercicios:
+      -
+        titulo: "Ex11 - Clustering"
+        descricao: https://colab.research.google.com/drive/1qsy9_d5ohyqcHJpHD7Vh2mZKGsjbd6sf
+        entrega: 17/11/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Colab - Matplotlib"
+        url: https://colab.research.google.com/drive/117ey0oBJIOOQyTfrllW-NFlB1DaEYWBp
+      -
+        titulo: "Colab - Numpy"
+        url: https://colab.research.google.com/drive/1PBwZlSxc87LdURjwTM1QbIhL28wJOPH_
