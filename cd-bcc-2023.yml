@@ -239,3 +239,16 @@ aulas:
       -
         titulo: "Colab - Séries Temporais"
         url: https://colab.research.google.com/drive/1iNaqurQNG31kvDglxSvPmQhoByv6z4CI
+  -
+    pasta: "Aula 16 - Pandas"
+    data: 27/11/2023
+    exercicios:
+      -
+        titulo: "Ex16 - Pandas"
+        descricao: https://crivelaro.notion.site/Ex03-Pandas-4d9eeefdb90648e28205fa525817af2f?pvs=4
+        entrega: 27/11/2023
+        pontos: 1
+    links:
+      -
+        titulo: "Colab - Pandas"
+        url: https://colab.research.google.com/drive/10d3k1p7pZ4VGfRIQyYAWHLQoHy3C1evt
