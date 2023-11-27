@@ -222,3 +222,16 @@ aulas:
       -
         titulo: Prolog - Funcoes
         url: https://github.com/celsocrivelaro/senac-paradigmas/prolog/blob/main/06-listas-funcoes.pl
+  -
+    pasta: "Aula 16 - Prolog: Polimorfismo"
+    data: 27/11/2023
+    exercicios:
+      -
+        titulo: "Ex16 - Polimorfismo"
+        descricao: https://github.com/celsocrivelaro/senac-paradigmas/blob/main/prolog/exercicios/09-polimorfismo.pl
+        entrega: 27/11/2023
+        pontos: 1
+    links:
+      -
+        titulo: Prolog - Polimorfismo
+        url: https://github.com/celsocrivelaro/senac-paradigmas/blob/main/prolog/12-polimorfismo.pl
