@@ -1,5 +1,27 @@
 disciplina: Paradigmas
 course_id: _219947_1
+trabalhos:
+  -
+    tipo: trabalho
+    data_liberacao: 01/01/2023
+    data_entrega: 01/01/2023
+    data_fechamento: 01/01/2023
+    título: Análise de uma Linguagem: Ecossistema e Tipos
+    descrição: https://crivelaro.notion.site/Parte-1-Ecossistema-e-Tipos-38bc9235e688458c86f1bbd7edf85bb2
+  -
+    tipo: trabalho
+    data_liberacao: 01/01/2023
+    data_entrega: 01/01/2023
+    data_fechamento: 01/01/2023
+    título: Análise de uma Linguagem: Aspectos Funcionais
+    descrição: https://www.notion.so/crivelaro/Parte-2-Funcional-368bcaf7582e42bf886fb2208bf2dcc4
+  -
+    tipo: trabalho
+    data_liberacao: 01/01/2023
+    data_entrega: 01/01/2023
+    data_fechamento: 01/01/2023
+    título: Análise de uma Linguagem: Concorrência
+    descrição: https://crivelaro.notion.site/Parte-3-Concorr-ncia-bd563a065cd548c8926b05ee12583691
 aulas:
   -
     pasta: "Aula 01 - Ecossistema e Ambientes de Execução"
